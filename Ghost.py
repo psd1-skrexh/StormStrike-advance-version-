@@ -9,7 +9,7 @@ import requests
 import random
 import getpass
 import time
-import sysfuck
+import sys
 
 ''' auto update
 
